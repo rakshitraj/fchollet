@@ -1,3 +1,9 @@
 # jupyter notebook checkpoints
 ipynb_checkpoints/
 .ipynb_checkpoints/
+
+# Graphviz visualization
+*.gv
+
+# Documents and graph Renders
+*.pdf
